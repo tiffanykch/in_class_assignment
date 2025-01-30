@@ -12,7 +12,7 @@ if (expenses > 7000) {
     console.log("Manageable Expenses");
 };
 
-//Practice problem: Is student score 60 or above
+//Task 2: Is student score 60 or above?
 
 let score = 59;
 if (score >= 60) {
