@@ -11,3 +11,12 @@ if (expenses > 7000) {
 } else {
     console.log("Manageable Expenses");
 };
+
+//Practice problem: Is student score 60 or above
+
+let score = 59;
+if (score >= 60) {
+    console.log("Passed");
+} else {
+    console.log("Failed");
+}
