@@ -34,3 +34,10 @@ while (count < 11) {
     console.log("Count:", count);
     count += 2;
 }
+
+//Task 5: Declare a function
+
+function calculateSquare (num) {
+    return num * num;
+}
+console.log(calculateSquare(9))
