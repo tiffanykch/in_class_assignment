@@ -26,3 +26,11 @@ if (score >= 60) {
 for (let i = 10; i >= 1; i--) {
     console.log(i);
     }
+
+//Task 4: Create while loop that prints even numbers from 2 to 10
+
+let count = 0;
+while (count < 11) {
+    console.log("Count:", count);
+    count += 2;
+}
