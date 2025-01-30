@@ -20,3 +20,9 @@ if (score >= 60) {
 } else {
     console.log("Failed");
 }
+
+//Task 3: Print numbers from 10 to 1 in descending order
+
+for (let i = 10; i >= 1; i--) {
+    console.log(i);
+    }
